@@ -1,4 +1,3 @@
-H
-E
-L
-P
+fn main() {
+    println!("Hello, world!");
+}
